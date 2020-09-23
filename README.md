@@ -9,7 +9,7 @@ PrimeOrNot is a simple tool which tells you whether an integer number you give i
 $ go run primeornot.go
 ```
 
-Just execute the above command in the command line on Terminal or an equivalent terminal shell. Make sure the primeornot.go file in the directory where you are executing the command.
+Just execute the above command in the command line on Terminal or an equivalent terminal shell. Make sure the primeornot.go file is in the directory where you are executing the command.
 
 When you do it, you have the below prompt message:
 
