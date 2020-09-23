@@ -10,7 +10,7 @@ class PrimeOrNot:
         self.divisorsChar = ''
 
     def getNumber(self):
-        self.number = int(input('Enter an integer number > '))
+        self.number = int(input('Enter a positive integer number > '))
 
     def getDivisors(self, number):
         self.divisors = [1]

@@ -11,7 +11,13 @@ $ go run primeornot.go
 
 Just execute the above command in the command line on Terminal or an equivalent terminal shell. Make sure the primeornot.go file is in the directory where you are executing the command.
 
-When you do it, you have the below prompt message:
+If Python is installed in your system, execute the below command instead:
+
+```bash
+$ python primeornot.py
+```
+
+When you give one of the above commands, you have the below prompt message:
 
 ```bash
 Enter a positive integer number > 
