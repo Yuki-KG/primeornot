@@ -1,4 +1,4 @@
-#PrimeOrNot
+# PrimeOrNot
 
 PrimeOrNot is a simple tool which tells you whether an integer number you give is prime or not. When the number is not prime, it tells you the divisors for the number as well.
 
@@ -9,7 +9,7 @@ PrimeOrNot is a simple tool which tells you whether an integer number you give i
 $ go run primeornot.go
 ```
 
-Just execute the above command in the command line. Make sure the primeornot.go file in the directory where you are executing the command.
+Just execute the above command in the command line on Terminal or an equivalent terminal shell. Make sure the primeornot.go file in the directory where you are executing the command.
 
 When you do it, you have the below prompt message:
 
@@ -18,7 +18,7 @@ Enter a positive integer number >
 ```
 
 When the message appears, you can input a number and hit return key.
-Then you'll have the message either
+Then you'll get the message either
 
 ```bash
 XXX is a prime number. 
